@@ -1,0 +1,35 @@
+main {
+  background-color: white;
+}
+li {
+  font-size: 1.2rem;
+}
+p {
+  text-align: left;
+}
+img {
+  width: 100%;
+  text-emphasis-color: #ffcb05;
+}
+.headingText {
+  font-size: 1.6rem;
+}
+.bodyText {
+  font-size: 1.4rem;
+}
+.jumbotron {
+  margin: 0;
+}
+
+.googleCal {
+  width: 100%;
+}
+.link {
+  color: black;
+}
+.link:hover {
+  color: #ffcb05;
+}
+.active {
+  color: #ffcb05;
+}
