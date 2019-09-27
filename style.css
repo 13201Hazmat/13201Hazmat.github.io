@@ -9,7 +9,6 @@ p {
 }
 img {
   width: 100%;
-  text-emphasis-color: #ffcb05;
 }
 .headingText {
   font-size: 1.6rem;
@@ -27,9 +26,6 @@ img {
 .link {
   color: black;
 }
-.link:hover {
-  color: #ffcb05;
-}
-.active {
-  color: #ffcb05;
+a:hover {
+  color: rgba(255, 251, 0, 1) !important;
 }
