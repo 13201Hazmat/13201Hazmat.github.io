@@ -23,13 +23,28 @@ img {
 .googleCal {
   width: 100%;
 }
-.link {
-  color: black;
-}
-link:hover {
+
+.link:hover {
   color: rgba(255, 223, 40, 1);
 }
 
 .bg-grey{
   background-color: #666666
+}
+
+.color-white{
+  color: #FFFFFF
+}
+
+.color-blue{
+  color: #4a86e8
+}
+
+.bg-blue{
+  background-color: #4a86e8
+}
+
+.jumbo-custom{
+  background-image: url(https://ssl.gstatic.com/atari/images/level-header.png);
+  background-position-y: center
 }
