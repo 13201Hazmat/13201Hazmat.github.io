@@ -26,6 +26,10 @@ img {
 .link {
   color: black;
 }
-a:hover {
-  color: rgba(255, 251, 0, 1) !important;
+link:hover {
+  color: rgba(255, 223, 40, 1);
+}
+
+.bg-grey{
+  background-color: #666666
 }
