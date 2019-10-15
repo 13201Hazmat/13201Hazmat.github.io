@@ -6,3 +6,4 @@ $(document).ready(function() {
   });
   $("#footer").load("subPages/footer.html");
 });
+$('head').append('<link rel="icon" href="/img/HazmatMan.png"> ');
