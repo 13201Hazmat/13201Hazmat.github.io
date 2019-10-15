@@ -22,6 +22,9 @@ img {
 .jumbotron {
   margin: 0;
 }
+.no-margin {
+  margin: 0;
+}
 
 .googleCal {
   width: 100%;
