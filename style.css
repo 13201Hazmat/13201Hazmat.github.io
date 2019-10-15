@@ -1,3 +1,6 @@
+body {
+  padding-top: 55px;
+}
 main {
   background-color: white;
 }
@@ -45,6 +48,6 @@ img {
 }
 
 .jumbo-custom{
-  background-image: url(https://ssl.gstatic.com/atari/images/level-header.png);
+  background-image: url("/img/background.png");
   background-position-y: center
 }
